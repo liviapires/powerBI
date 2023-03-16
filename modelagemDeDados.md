@@ -1,4 +1,6 @@
-# O que é Modelagem de Dados?
+# Modelagem de Dados
+
+## O que é Modelagem de Dados?
 
 - Processo de criar uma representação visual
     - Define os sistemas de coleta e gerenciamento de informações
@@ -46,4 +48,22 @@ Descreve como os dados serão armazenados em um sistema de armazenamento especí
 >
 > <span style="background-color:#134F78">⠀É obrigação do desenvolvedor organizar os dados corretamente.⠀</span>
 
-<span style="background-color:#134F78">⠀O Power BI não é uma ferramenta de modelagem de dados!⠀
+<span style="background-color:#134F78">⠀O Power BI não é uma ferramenta de modelagem de dados!⠀</span>
+
+
+## O que é Business Intelligence?
+
+<span style="background-color:#134F78">⠀Inteligência de Negócios⠀</span>
+
+Combina para ajudar as organizações a tomar decisões impulsionadas por dados:
+
+- Análise de Negócios
+- Mineração de Dados
+- Visualização de Dados
+- Infraestrutura de Dados
+- Práticas Recomendadas
+
+> BI foca em analisar descritivamente o que _aconteceu_ <br>
+> Diferente da Ciência de Dados que procura compreender o que _pode acontecer_
+
+
